@@ -31,3 +31,6 @@ Resources:
 - [ ] https://docs.astro.build/en/tutorial/4-layouts/2/
 8. Import Aliases:
 - [ ] https://docs.astro.build/en/guides/typescript/#import-aliases
+9. Site Configuration:
+- [ ] npm install @astrojs/mdx @astrojs/sitemap @rehype-katex @remark-math
+- [ ] https://docs.astro.build/en/reference/configuration-reference/#markdownremarkplugins

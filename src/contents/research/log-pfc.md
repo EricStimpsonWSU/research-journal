@@ -15,6 +15,11 @@ tags: ["PFC", "active", "dissertation"]
 
 ## About
 
+A generic PFC model is an energy functional, like
+$$
+f(\phi)
+$$
+
 ## The Problem
 
 ## Other ideas
