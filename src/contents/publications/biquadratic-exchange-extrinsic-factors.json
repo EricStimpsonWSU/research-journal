@@ -1,0 +1,35 @@
+{
+  "title": "Investigating the dependence of the biquadratic exchange interaction on extrinsic factors in permalloy–ruthenium synthetic antiferromagnets",
+  "journal": "Journal of Applied Physics",
+  "doi": "10.1063/5.0252277",
+  "publishDate": "2025-04-18",
+  "description": "A study on the role of biquadratic exchange and extrinsic factors in magnetic systems.",
+  "authors": [
+    {
+      "name": "Mitra Mani Subedi",
+      "affiliation": "Wayne State University"
+    },
+    {
+      "name": "Kuangyin Deng",
+      "affiliation": "University of California, Riverside"
+    },
+    {
+      "name": "Eric Stimpson",
+      "affiliation": "Wayne State University"
+    },
+    {
+      "name": "Benedetta Flebus",
+      "affiliation": "Boston College"
+    },
+    {
+      "name": "Joseph Sklenar",
+      "affiliation": "Wayne State University"
+    }
+  ],
+  "abstract": "In this work, we extract the temperature-dependent bilinear J1 and biquadratic J2 exchange energy densities in permalloy–ruthenium-basedsynthetic antiferromagnet bilayers, trilayers, and tetralayers. In our samples, the ruthenium interlayer thickness is fixed to be 1 nm across allstructures, but we consider permalloy layers that are 3 and 9 nm thick. To the best of our knowledge, this work represents the first time thatthe influence of both the ferromagnetic layer thickness as well as the total number of ferromagnetic layers on biquadratic exchange interac-tions has been examined together. Across all samples, we observe a significant increase in the strength of J2 relative to J1 as the temperatureis lowered. We also observe trends indicating that J2 is sensitive to both the thickness and the total number of permalloy layers. Our analysissuggests that in structures with thicker and more numerous ferromagnetic layers, J2 originates from interfacial roughness effects between themagnetic layer and the spacer layer. In samples with thinner and less numerous permalloy layers, multiple mechanisms must contribute toJ2. These findings provide new insights into the complexity of interlayer exchange interactions in synthetic antiferromagnets, which will aidin interpreting ongoing magnonic and spintronic experimental studies of synthetic antiferromagnets.",
+  "image": {
+    "url": "https://pubs.aip.org/view-large/figure/91200916/153907_1_5.0252277.figures.online.f1.jpg",
+    "alt": "Figure 1. a) bilayer geometry b) tetralayer geometry c) bilayer equilibrium angles d) tetralayer equilibrium angles"
+  },
+  "tags": ["magnetism", "materials science", "fitting"]
+}

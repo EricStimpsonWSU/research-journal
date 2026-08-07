@@ -1,0 +1,27 @@
+{
+  "title": "Single-lipid tracking on nanoscale membrane buds: The effects of curvature on lipid diffusion and sorting",
+  "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+  "doi": "10.1016/j.bbamem.2018.05.009",
+  "publishDate": "2018-10-01",
+  "description": "A study on the formation and properties of nanoscale membrane buds.",
+  "authors": [
+    {
+      "name": "Xinxin Woodward",
+      "affiliation": "Wayne State University"
+    },
+    {
+      "name": "Eric E. Stimpson",
+      "affiliation": "Wayne State University"
+    },
+    {
+      "name": "Christopher V. Kelly",
+      "affiliation": "Wayne State University"
+    }
+  ],
+  "abstract": "Nanoscale membrane curvature in cells is critical for endocytosis/exocytosis and membrane trafficking.However, the biophysical ramifications of nanoscale membrane curvature on the behavior of lipids remainpoorly understood. Here, we created an experimental model system of membrane curvature at a physiologically-relevant scale and obtained nanoscopic information on single-lipid distributions and dynamics. Supported lipidbilayers were created over 50 and 70 nm radius nanoparticles to create membrane buds. Single-molecule lo-calization microscopy was performed with diverse mixtures of fluorescent and non-fluorescent lipids. Variationsin lipid acyl tales length, saturation, head-group, and fluorescent labeling strategy were tested while maintaininga single fluid lipid phase throughout the membrane. Monte Carlo simulations were used to fit our experimentalresults and quantify the effects of curvature on the lipid diffusion and sorting. Whereas varying the compositionof the non-fluorescent lipids yielded minimal changes to the curvature effects, the labeling strategy of thefluorescent lipids yielded highly varying effects of curvature. Most conditions yield single-population Browniandiffusion throughout the membrane; however, curvature-induced lipid sorting, slowing, and aggregation wereobserved in some conditions. Head-group labeled lipids such as DPPE-Texas Red and POPE-Rhodamine dif-fused > 2.4× slower on the curved vs. the planar membranes; tail-labeled lipids such as NBD-PPC, TopFluor-PPC, and TopFluor-PIP2, as well as DiIC12 and DiIC18 displayed no significant changes in diffusion due to themembrane curvature. This article is part of a Special Issue entitled: Emergence of Complex Behavior inBiomembranes edited by Marjorie Longo.",
+  "image": {
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0005273618301512-gr1.jpg",
+    "alt": "Figure 1. a) Nanoscale Membrane Buds b) Non-flourescent Components c) Flourescent Components d) Head-group labeled lipids e) Tail-labeled lipids"
+  },
+  "tags": ["nanotechnology", "membrane", "spt"]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Magnon-magnon interactions induced by dynamic exchange interaction in synthetic antiferromagnets",
+  "journal": "Conference Proceedings of APS Mid-Alantic Section Meeting 2023",
+  "doi": "mas/2023/d02/2",
+  "publishDate": "2023-11-23",
+  "description": "FMR and BLS spectroscopy reveal multiple acoustic and optical magnon modes, which can be selectively coupled based upon the orientation between the driving field and the external field.",
+  "authors": [
+    {
+      "name": "Mohammad Hossain",
+      "affiliation": "University of Delaware",
+      "presenter": true
+    },
+    {
+      "name": "Mitra M Subedi",
+      "affiliation": "Wayne State University"
+    },
+    {
+      "name": "Eric Stimpson",
+      "affiliation": "Wayne State University"
+    },
+    {
+      "name": "Joseph Sklenar",
+      "affiliation": "Wayne State University"
+    },
+    {
+      "name": "M. Benjamin Jungleisch",
+      "affiliation": "University of Delaware"
+    }
+  ],
+  "abstract": "Antiferromagnets are magnetic materials characterized by their magnetic order, where adjacent magnetic moments (spins) align in opposite directions. Antiferromagnets offer rich dispersion and energy spectrum with no stray magnetic field making them ideal candidates for ultrafast spintronic applications. Yet these materials are challenging to control compared to ferromagnetic materials. Synthetic antiferromagnets (sAFs) offer both richness in the dispersion and energy spectrum with significant engineering advantages compared to bulk antiferromagnets. Magnons are the quantized units of a spin wave representing the smallest possible excitation of the magnetic order in a magnetic system. Here, we report magnon-magnon interaction in an in-plane geometry induced by dynamic exchange interaction in synthetic antiferromagnetic tetralayers of NiFe (Py) separated by spacer layers of Ru. Ferromagnetic resonance (FMR) and Brillouin light scattering (BLS) spectroscopy reveal multiple acoustic and optical magnon modes, which can be selectively coupled based upon the orientation between the driving field and the external field. We observed a self-hybridization of the acoustic modes through characteristic avoided energy level crossing in the spectra. The strength of the coupling can be controlled by tuning the exchange interaction through RKKY mechanism. Our work sets the foundation for next-generation spin-pumping controlled magnon dynamics in spintronic devices.",
+  "image": {
+    "url": "https://meetings-archive.aps.org/aps-logo.svg",
+    "alt": "APS Advancing Physics Logo"
+  },
+  "tags": ["magnonics", "antiferromagnetism", "SAF", "talks"]
+}

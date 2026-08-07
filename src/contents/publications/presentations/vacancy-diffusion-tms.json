@@ -1,0 +1,28 @@
+{
+  "title": "A Phase-Field Crystal Model of Positive Definite Density to Capture Vacancy Diffusion",
+  "journal": "Conference Proceedings of 2026 TMS Annual Meeting & Exhibition",
+  "doi": "https://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=A3C3EDB9C2FA7F5985258CCF00819284",
+  "publishDate": "2026-03-18",
+  "description": "A theoretical study on the modeling of vacancy diffusion in the phase-field crystal framework.",
+  "authors": [
+    {
+      "name": "Eric Stimpson",
+      "affiliation": "Wayne State University",
+      "presenter": true
+    },
+    {
+      "name": "Nigel Goldenfeld",
+      "affiliation": "University of California, San Diego"
+    },
+    {
+      "name": "Zhi-Feng Huang",
+      "affiliation": "Wayne State University"
+    }
+  ],
+  "abstract": "The phase field crystal (PFC) method, which incorporates atomic length scales and diffusive timescales, has been successfully applied to the study of microstructures and dynamics of a variety of material systems. However, PFC models typically model atomic densities with an order parameter field that permits negative values, leading to unrealistic modeling of vacancy behavior. We present a new PFC model that restores a positive definite density field, permitting an accurate representation of vacancies within the atomic lattice structure and facilitating realistic analysis of vacancy stability and diffusion. The coexistence and transition between different phases and elastoplastic properties of the system are also well captured by the model.",
+  "image": {
+    "url": "https://www.tms.org/images/tms2026/layout/upd1/TMS2026-LogoLarge.png?version=1CD7727D",
+    "alt": "TMS 2026 Annual Meeting & Exhibition Logo"
+  },
+  "tags": ["magnonics", "antiferromagnetism", "SAF", "talks"]
+}

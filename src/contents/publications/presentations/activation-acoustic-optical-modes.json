@@ -1,0 +1,24 @@
+{
+  "title": "Optimizing the Activation of Acoustic and Optical Magnons in Synthetic Antiferromagnets and Ferrimagnets through Field-like and Damping-like Torques",
+  "journal": "Conference Proceedings of APS March Meeting 2024",
+  "doi": "mar/2024/n22/3",
+  "publishDate": "2024-03-18",
+  "description": "A theoretical study on the activation of acoustic and optical magnons in synthetic antiferromagnets.",
+  "authors": [
+    {
+      "name": "Eric Stimpson",
+      "affiliation": "Wayne State University",
+      "presenter": true
+    },
+    {
+      "name": "Joseph Sklenar",
+      "affiliation": "Wayne State University"
+    }
+  ],
+  "abstract": "Synthetic magnetic materials, constructed via thin-film deposition, serve as a robust platform for exploring antiferromagnetic and ferrimagnetic behaviors. In such systems, both acoustic and optical magnon modes can be excited at GHz frequencies using ferromagnetic resonance-based (FMR) techniques. Typically, by employing a system of coupled Landau-Lifschitz-Gilbert (LLG) equations, one can predict magnon frequencies and interactions across a myriad of structures. Despite the general agreement between spectroscopy data and the eigenmodes predicted by the LLG model, a particular mode (or modes) may remain quiescent in the spectroscopy data across a range of external field strengths--an observation that has yet to be adequately explained. We develop a theoretical framework that models the coupling strength of a polarized driving field (as well as polarized damping-like torques) to a magnon mode over a range of external field strengths. We show that our model of coupling strength aligns with previously reported spectroscopy data for various synthetic antiferromagnetic and ferrimagnetic systems. Our work provides a predictive guide for the ability of a spectroscopic method to drive a particular magnon branch.",
+  "image": {
+    "url": "https://meetings-archive.aps.org/aps-logo.svg",
+    "alt": "APS Advancing Physics Logo"
+  },
+  "tags": ["magnonics", "antiferromagnetism", "SAF", "talks"]
+}

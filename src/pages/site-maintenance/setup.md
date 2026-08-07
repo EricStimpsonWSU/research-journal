@@ -9,7 +9,7 @@ Resources:
 
 ## Install steps
 
-1. npm create astro@latest
+1. New Project: npm create astro@latest
 - [ ] https://docs.astro.build/en/tutorial/0-introduction/
 2. GitHub - set remote, push
 - [ ] https://docs.astro.build/en/tutorial/1-setup/4/
@@ -21,3 +21,10 @@ Resources:
 - b. npx astro add tailwindcss
 5. Navigation
 - [ ] https://docs.astro.build/en/tutorial/3-components/1/
+- [ ] https://tailwindcss.com/docs/hover-focus-and-other-states#styling-based-on-the-descendants-of-a-peer
+- [ ] https://tailwindcss.com/docs/styling-with-utility-classes#complex-selectors
+- [ ] https://tailwindcss.com/docs/adding-custom-styles#arbitrary-variants
+1. Content Collections:
+- [ ] https://docs.astro.build/en/tutorial/6-islands/4/
+- [ ] https://docs.astro.build/en/reference/content-loader-reference/#generateid
+- 
