@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import Navigation from '../components/Navigation.astro';
+import Header from '../components/Header.astro';
 const { pageTitle } = Astro.props;
 ---
 
@@ -13,8 +13,11 @@ const { pageTitle } = Astro.props;
     <title>{pageTitle}</title>
   </head>
   <body>
-    <Navigation />
+    <Header />
     <h1 class="text-3xl font-bold">{pageTitle}</h1>
     <slot />
+    <script>
+      import '../scripts/menu.ts';
+    </script>
   </body>
 </html>

@@ -1,0 +1,23 @@
+---
+import Navigation from './Navigation.astro';
+---
+<header>
+  <nav class="bg-gray-800 p-4">
+    <button
+      aria-expanded="true"
+      aria-controls="main-menu"
+      class="menu peer bg-gray-100 p-2 rounded-md text-gray-800 hover:bg-gray-200 md:hidden
+             focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+      Menu
+    </button>
+
+    <div
+      id="main-menu"
+      class="nav-links hidden peer-aria-expanded:block py-2
+             md:flex md:justify-center md:space-x-4 md:py-4">
+      <Navigation />
+    </div>
+  </nav>
+</header>
+
+
