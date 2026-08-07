@@ -24,7 +24,8 @@ Resources:
 - [ ] https://tailwindcss.com/docs/hover-focus-and-other-states#styling-based-on-the-descendants-of-a-peer
 - [ ] https://tailwindcss.com/docs/styling-with-utility-classes#complex-selectors
 - [ ] https://tailwindcss.com/docs/adding-custom-styles#arbitrary-variants
-1. Content Collections:
+6. Content Collections:
 - [ ] https://docs.astro.build/en/tutorial/6-islands/4/
 - [ ] https://docs.astro.build/en/reference/content-loader-reference/#generateid
-- 
+7. Markdown Layout:
+- [ ] https://docs.astro.build/en/tutorial/4-layouts/2/

@@ -1,10 +1,9 @@
 ---
 import { getCollection, render } from 'astro:content';
+import MarkdownLayout from '../../layouts/MarkdownLayout.astro';
 
 export async function getStaticPaths() {
-  console.log('getStaticPaths: starting');
   const researchTopics = await getCollection('research');
-  console.log('getStaticPaths: researchTopics ids =', researchTopics.map(t => t.id));
   return researchTopics.map(topic => ({
     params: { slug: topic.id }, props: { topic },
   }));
@@ -13,5 +12,7 @@ export async function getStaticPaths() {
 const { topic } = Astro.props;
 const { Content } = await render(topic);
 ---
-<h1>{topic.data.title}</h1>
-<Content />
+
+<MarkdownLayout frontmatter={topic.data}>
+  <Content />
+</MarkdownLayout>

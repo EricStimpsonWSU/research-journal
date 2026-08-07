@@ -12,3 +12,10 @@ image:
   alt: ''
 tags: ["PFC", "active", "dissertation"]
 ---
+
+## About
+
+## The Problem
+
+## Other ideas
+
