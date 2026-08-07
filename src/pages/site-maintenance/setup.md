@@ -19,3 +19,5 @@ Resources:
 - [ ] https://docs.astro.build/en/guides/styling/
 - a. npx @astrojs/upgrade
 - b. npx astro add tailwindcss
+5. Navigation
+- [ ] https://docs.astro.build/en/tutorial/3-components/1/
