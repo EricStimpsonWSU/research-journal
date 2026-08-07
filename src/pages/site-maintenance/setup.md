@@ -29,3 +29,5 @@ Resources:
 - [ ] https://docs.astro.build/en/reference/content-loader-reference/#generateid
 7. Markdown Layout:
 - [ ] https://docs.astro.build/en/tutorial/4-layouts/2/
+8. Import Aliases:
+- [ ] https://docs.astro.build/en/guides/typescript/#import-aliases
