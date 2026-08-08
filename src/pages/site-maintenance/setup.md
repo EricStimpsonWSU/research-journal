@@ -34,3 +34,6 @@ Resources:
 9. Site Configuration:
 - [ ] npm install @astrojs/mdx @astrojs/sitemap @rehype-katex @remark-math
 - [ ] https://docs.astro.build/en/reference/configuration-reference/#markdownremarkplugins
+10. Migrate from npm to pnpm
+- [ ] https://underwood-inc.github.io/web-patterns/package-managers/migration/npm-to-pnpm
+- [ ] https://docs.astro.build/en/install-and-setup/
