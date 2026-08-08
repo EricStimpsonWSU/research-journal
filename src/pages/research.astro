@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
-import ResearchTop from '@components/ResearchTopic.astro';
+import ResearchTopic from '@components/ResearchTopic.astro';
 
 import { getCollection } from 'astro:content';
 
@@ -10,10 +10,10 @@ const pageTitle = 'Research Page';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <p>Welcome to the research page, styled by Tailwind CSS!</p>
+  <p>Active Research Projects</p>
   <ul>
     {researchCollection.map((topic) => (
-      <ResearchTop url={`${import.meta.env.BASE_URL}/research-topics/${topic.id}`} title={topic.data.title} />
+      <ResearchTopic url={`${import.meta.env.BASE_URL}/research-topics/${topic.id}`} title={topic.data.title} />
     ))}
   </ul>
 </BaseLayout>

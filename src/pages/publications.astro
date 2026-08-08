@@ -1,8 +1,19 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import Publication from '@components/Publication.astro';
+
+import { getCollection } from 'astro:content';
+
+const publications = await getCollection('publications');
+
 const pageTitle = 'Publications Page';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <p>Welcome to the publications page, styled by Tailwind CSS!</p>
+  <p>Publication List</p>
+  <ul>
+    {publications.map((pub) => (
+      <Publication title={pub.data.title} />
+    ))}
+  </ul>
 </BaseLayout>
